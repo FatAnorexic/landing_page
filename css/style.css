@@ -6,12 +6,16 @@ body{
     flex-direction: column;
 }
 ul{
+    font-size: 18px;
     list-style: none;
     display: flex;
+    margin:0;
+    padding:0;
     gap: 16px;
 }
 a{
     text-decoration: none;
+    color: #E5e7eb;
 }
 button{
     font-family: Roboto, sans-serif;
