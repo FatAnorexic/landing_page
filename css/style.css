@@ -8,6 +8,7 @@ body{
 ul{
     list-style: none;
     display: flex;
+    gap: 16px;
 }
 a{
     text-decoration: none;
@@ -24,4 +25,7 @@ button{
 .header{
     display: flex;
     flex-direction: column;
+}
+.header,.footer{
+    background: #1F2957;
 }
