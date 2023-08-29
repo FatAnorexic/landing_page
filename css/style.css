@@ -28,7 +28,7 @@ button{
 }
 .header{
     display: flex;
-    flex-direction: column;
+    align-items: center;
 }
 .header,.footer{
     background: #1F2957;
