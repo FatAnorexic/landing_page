@@ -28,7 +28,7 @@ button{
 }
 .header{
     display: flex;
-    justify-content: space-between;
+    flex-direction: column;
 }
 .header,.footer{
     background: #1F2957;
@@ -37,6 +37,8 @@ button{
 .logo{
     font-size: 24px;
     color: #F9FAF8;
+    display: flex;
+    justify-content: space-around;
 }
 .title{
     font-size: 48px;
