@@ -30,7 +30,7 @@ button{
 .header{
     display: flex;
     flex-direction: column;
-    padding: 10px 200px;
+    padding: 10px 200px 50px 200px;
 }
 .header,.footer{
     background: #1F2937;
