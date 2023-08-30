@@ -28,7 +28,7 @@ button{
 }
 .header{
     display: flex;
-    align-items: center;
+    justify-content: space-between;
 }
 .header,.footer{
     background: #1F2957;
