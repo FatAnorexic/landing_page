@@ -67,4 +67,7 @@ text{
 }
 .call{
     background-color: #3882f6;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
 }
