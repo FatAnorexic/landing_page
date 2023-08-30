@@ -5,6 +5,7 @@ body{
     display: flex;
     flex-direction: column;
 }
+/* Top of the page*/
 ul{
     font-size: 18px;
     list-style: none;
