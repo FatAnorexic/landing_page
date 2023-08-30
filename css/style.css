@@ -55,6 +55,10 @@ text{
     font-weight: bolder;
     color: #1f2937;
 }
+.body{
+    display: flex;
+    justify-content: center;
+}
 .body2{
     background-color: #E5e7eb;
 }
