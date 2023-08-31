@@ -24,13 +24,14 @@ button{
     background-color: #3882f6;
     border: none;
     color:#eee;
-    padding: 8px 16px;
+    margin-top: 12px;
+    padding: 8px 32px;
     border-radius:12px;
 }
 .header{
     display: flex;
     flex-direction: column;
-    padding: 10px 200px 50px 200px;
+    padding: 10px 150px 50px 200px;
 }
 .header,.footer{
     background: #1F2937;
@@ -43,15 +44,19 @@ button{
     justify-content: space-between;
 }
 .container{
+    padding-top: 100px;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 .hero{
-    display: flex;
-    padding-top: 100px;
-    flex-wrap: wrap;
+    margin-right:48px;
+    padding-right: 8px;
+    border: 2px;
     width: 450px;
+    display: flex;
+    flex-wrap: wrap;
+    
 }
 .title{
     font-size: 48px;
