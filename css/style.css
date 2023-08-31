@@ -107,6 +107,7 @@ img{
 .text{
     color: #1F2937;
     font-weight: lighter;
+    text-align: center;
 }
 /* second body */
 .body2{
