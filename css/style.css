@@ -87,8 +87,11 @@ img{
     font-size: 36px;
     font-weight: bolder;
     color: #1f2937;
+    margin: 16px;
+    padding:12px;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 .body{
     display: flex;
