@@ -152,6 +152,15 @@ img{
     display: flex;
     flex-direction: column;
 }
+.action{
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
+}
+.summary{
+    font-size: 18px;
+    color: #FAF8F9;
+}
 /* footer */
 .footer{
     color:#F9FAF8;
