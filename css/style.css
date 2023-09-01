@@ -170,4 +170,9 @@ img{
 .footer{
     color:#F9FAF8;
     font-size: 18px;
+    padding: 48px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
 }
