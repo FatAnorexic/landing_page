@@ -108,7 +108,7 @@ img{
     align-items: center;
     flex: 1;
     padding:12px;
-    margin: 24px;
+    margin: 12px;
 }
 .bdyimg{
     outline: auto;
@@ -128,7 +128,7 @@ img{
 .quote{
     font-size: 36px;
     font-style: italic;
-    font-weight: light;
+    font-weight: lighter;
     color: #1f2937;
     text-align: center;
 }
