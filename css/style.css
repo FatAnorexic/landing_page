@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto);
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100&family=Roboto:wght@900&display=swap');
 
 body{
     font-family:  Roboto,sans-serif;
@@ -133,7 +134,14 @@ img{
     font-weight: 300;
     font-style: italic;
     color: #1F2937;
-    text-align: center;
+    text-align: left;
+}
+.source{
+    font-family: Roboto, sans-serif;
+    text-align: right;
+    color: #1F2937;
+    font-size: 24px;
+    font-weight: 900;
 }
 /* call to arms */
 .call{
