@@ -153,6 +153,7 @@ img{
     padding: 36px 36px;
     border-radius: 12px;
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
 }
