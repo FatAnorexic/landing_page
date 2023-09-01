@@ -149,8 +149,8 @@ img{
 /* call to arms */
 .call {
     background-color: #3882f6;
-    margin: 50px 150px 50px 200px;
-    padding: 36px 36px;
+    margin: 100px 150px 100px 200px;
+    padding: 48px 48px;
     border-radius: 12px;
     display: flex;
     flex-wrap: wrap;
