@@ -98,6 +98,7 @@ img{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap:wrap;
     gap: 50px;
 }
 .card{
@@ -105,14 +106,15 @@ img{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    flex: 1;
     padding:12px;
     margin: 24px;
 }
 .bdyimg{
     outline: auto;
     outline-color: #3882f6;
-    /* width: 175px; */
-    /* height: 175px; */
+     width: 130px;
+     height: 130px;
 }
 .text{
     color: #1F2937;
