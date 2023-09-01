@@ -25,11 +25,13 @@ button{
     font-family: Roboto, sans-serif;
     font-weight: bold;
     background-color: #3882f6;
-    border: none;
     color:#eee;
+    border-radius:12px;
+}
+.top{
+    border: none;
     margin-top: 12px;
     padding: 8px 32px;
-    border-radius:12px;
 }
 .header{
     display: flex;
