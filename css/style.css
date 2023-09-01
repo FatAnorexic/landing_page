@@ -151,3 +151,7 @@ img{
     flex-direction: column;
 }
 /* footer */
+.footer{
+    color:#F9FAF8;
+    font-size: 18px;
+}
