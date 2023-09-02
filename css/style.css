@@ -35,8 +35,6 @@ button{
     
 }
 .header{
-    display: flex;
-    flex-direction: column;
     padding: 0px 150px 50px 200px;
 }
 .header,.footer{
