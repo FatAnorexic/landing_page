@@ -49,6 +49,7 @@ button{
     color: #F9FAF8;
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 .container{
     margin: 100px 0px;
@@ -70,12 +71,11 @@ button{
 .subtext{
     font-size: 18px;
 }
-
 img{
     width: 100%;
 }
 /*main body*/
-#main{
+.main{
     margin:32px 0px;
     padding:0px 150px 0px 200px;
 }
