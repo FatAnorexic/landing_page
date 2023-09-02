@@ -61,26 +61,16 @@ button{
     padding-right: 8px;
     border: 2px;
     width: 450px;
-    /* display: flex; */
-    /* flex-wrap: wrap; */
-    
 }
 .title{
     font-size: 48px;
     font-weight: bolder;
     color: #F9FAF8;
-    /* display: flex; */
-    /* flex:1 1 auto; */
 }
 .subtext{
     font-size: 18px;
-    /* display: flex; */
-    /* flex: 1 1 auto; */
 }
-.imgcont{
-    display:flex;
-    flex-wrap: wrap;
-}
+
 img{
     width: 100%;
 }
